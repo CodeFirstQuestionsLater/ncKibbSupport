@@ -1,6 +1,6 @@
 # Vaneela Ex Support Page
 
-## Pinout
+## ![vaneelaExMainPic](README.assets/vaneelaExMainPic.jpg)Pinout
 
 MATRIX_ROW_PINS { D3, D2, D1, D0, B2, B6 }
 

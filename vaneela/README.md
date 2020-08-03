@@ -1,5 +1,7 @@
 # Flatbread60 Support Page
 
+![vaneelaMain](README.assets/vaneelaMain.jpg)
+
 ## Pinout
 
 MATRIX_ROW_PINS { F6, F7, B3, B2, B6 }
@@ -13,4 +15,3 @@ I will push the firmware to the official QMK repo, so that you can use QMK confi
 ## Housing Materials
 
 - STL file for 3D printed middleware is uploaded, which is 16mm in height.
-- 

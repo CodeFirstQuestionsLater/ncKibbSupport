@@ -13,3 +13,8 @@ I will push the firmware to the official QMK repo, so that you can use QMK confi
 ## Housing Materials
 
 - STL file for 3D printed case is uploaded.
+- Wired case only has a hole for USB connector,  and wireless versions has two holes for power switches. 
+- Hight of the case is 20mm
+- Plate dxf file is also uploaded. 
+
+![casepic](README.assets/casepic.PNG)
